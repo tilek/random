@@ -5,7 +5,9 @@ Examples of important areas excluded from this list:
 - general intellectual abilities such as problem solving, creativity
 - domain-specific skills (e.g. engineering)
 - language skills (e.g. English grammar)
+- qualities more suitable for friendships (e.g. coming up with good jokes)
 - knowledge of concepts and facts
+
 
 1. People's abilities.
 
@@ -17,7 +19,6 @@ Examples of important areas excluded from this list:
 1.2. Communication skills
 
 - Ability to articulate a compelling vision
-- Ability to come up with good jokes
 - Ability to communicate well during stressful situations
 - Ability to convince people
 - Ability to explain complex concepts simply
@@ -67,7 +68,6 @@ Examples of important areas excluded from this list:
 - Bias to action
 - Enjoyment of helping people
 - Fair credit assignment
-- Fairness
 - Leadership (taking matters in your own hands)
 - Ownership (acting as an owner)
 - Reliability (helping others rely on them)
@@ -76,11 +76,11 @@ Examples of important areas excluded from this list:
 
 - Approachability
 - Authenticity
+- Bias towards transparency
 - Gratefulness
 - Honesty
 - Humbleness
 - Receptiveness to feedback
-- Transparency
 
 2.3. Learning preferences
 
