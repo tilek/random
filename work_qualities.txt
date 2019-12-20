@@ -1,66 +1,20 @@
 I created this list to help myself and others find and evaluate people to collaborate with.
 
 
-Examples of important areas missing from this list: 
-- general intellectual abilities (e.g. problem solving, creativity)
+Examples of important areas excluded from this list: 
+- general intellectual abilities such as problem solving, creativity
 - domain-specific skills (e.g. engineering)
 - language skills (e.g. English grammar)
 - knowledge of concepts and facts
 
+1. People's abilities.
 
-1. People's preferences.
-
-1.1. Collaboration preferences
-
-- Bias to action
-- Enjoyment of helping people
-- Fair credit assignment
-- Fairness
-- Leadership (taking matters in your own hands)
-- Ownership (acting as an owner)
-- Reliability (helping others rely on them)
-
-1.2. Communication preferences
-
-- Approachability
-- Authenticity
-- Gratefulness
-- Honesty
-- Humbleness
-- Receptiveness to feedback
-- Transparency
-
-1.3. Learning preferences
-
-- Curiosity
-- Enjoyment of learning new skills
-- Enjoyment of learning new concepts
-- Enjoyment of diving into challenges
-
-1.4. Motivation
-
-- Determination (drive to overcome barriers to succeed)
-- Drive to set new challenges & self-improve
-
-1.5. Other preferences
-
-- Ethicality
-- Frugality
-- Openness to challenging own ideas
-- Positivity
-- Proactiveness
-- Pursuit of quality
-- Taking responsibility for failures
-
-
-2. People's abilities.
-
-2.1. Collaboration skills
+1.1. Collaboration skills
 
 - Ability to work independently
 - Ability to perform well under pressure
 
-2.2. Communication skills
+1.2. Communication skills
 
 - Ability to articulate a compelling vision
 - Ability to come up with good jokes
@@ -74,14 +28,14 @@ Examples of important areas missing from this list:
 - Ability to provide good personal development feedback
 - Ability to tell a compelling story
 
-2.3. Learning skills
+1.3. Learning skills
 
 - Ability to learn complex concepts quickly
 - Ability to learn new skills quickly
 - Ability to learn new skills independently
 - Ability to think critically
 
-2.4. Productivity skills
+1.4. Productivity skills
 
 - Ability to choose goals rationally
 - Ability to make good decisions quickly
@@ -89,7 +43,7 @@ Examples of important areas missing from this list:
 - Ability to focus on a long-term goal
 - Ability to plan time well
 
-2.5. Resourcefulness, discipline, resilience, and grit
+1.5. Resourcefulness, discipline, resilience, and grit
 
 - Ability to find clever ways to overcome challenges
 - Ability to gain extra motivation from challenging events
@@ -99,8 +53,53 @@ Examples of important areas missing from this list:
 - Discipline to make stable progress
 - Discipline to meet commitments or inform otherwise
 
-2.6. Self-improvement skills
+1.6. Self-improvement skills
 
 - Ability to build new good habits
 - Ability to stop bad habits
 - Ability to quickly self-improve
+
+
+2. People's preferences.
+
+2.1. Collaboration preferences
+
+- Bias to action
+- Enjoyment of helping people
+- Fair credit assignment
+- Fairness
+- Leadership (taking matters in your own hands)
+- Ownership (acting as an owner)
+- Reliability (helping others rely on them)
+
+2.2. Communication preferences
+
+- Approachability
+- Authenticity
+- Gratefulness
+- Honesty
+- Humbleness
+- Receptiveness to feedback
+- Transparency
+
+2.3. Learning preferences
+
+- Curiosity
+- Enjoyment of learning new skills
+- Enjoyment of learning new concepts
+- Enjoyment of diving into challenges
+
+2.4. Motivation
+
+- Determination (drive to overcome barriers to succeed)
+- Drive to set new challenges & self-improve
+
+2.5. Other preferences
+
+- Ethicality
+- Frugality
+- Openness to challenging own ideas
+- Positivity
+- Proactiveness
+- Pursuit of quality
+- Taking responsibility for failures
