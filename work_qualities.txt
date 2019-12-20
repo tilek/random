@@ -8,7 +8,7 @@ Examples of important areas missing from this list:
 - knowledge of concepts and facts
 
 
-1. Preferences.
+1. People's preferences.
 
 1.1. Collaboration preferences
 
@@ -53,7 +53,7 @@ Examples of important areas missing from this list:
 - Taking responsibility for failures
 
 
-2. Abilities.
+2. People's abilities.
 
 2.1. Collaboration skills
 
