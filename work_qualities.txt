@@ -1,6 +1,6 @@
 I created this list to help myself and others find and evaluate people to collaborate with.
 
-Examples of important areas excluded from this list: 
+Examples of important areas excluded from this list for now: 
 - general intellectual abilities such as problem solving, creativity
 - domain-specific skills (e.g. engineering)
 - language skills (e.g. English grammar)
