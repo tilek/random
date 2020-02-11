@@ -1,0 +1,2 @@
+Is it ok to delay the interview as far as possible?
+Is it ok to mention LeetCode performance in the resume or a referral text?
