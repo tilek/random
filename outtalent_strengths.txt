@@ -1,51 +1,26 @@
+Harder & matters more
+- Close relationships with Google and Facebook: recruiting, executivies, hiring managers
+- Volume of applicants
+
+Harder & matters less
+- Top investors including YCombinator, executives from Google, Facebook (more might be announced soon)
+- Based in San Francisco, USA
+- Google X: experience, network
+- YCombinator: experience, network
+- country managers and points of contact for Eastern Europe, Asia, Africa, Latin America
+- Partnerships
+  - interviewing.io
+  - CodeSignal
+  - Team Blind
+
+Easier
+- Google: experience, network
 - Many successful placements in Europe and Canada: Google, Facebook, Amazon, Microsoft, Bloomberg
 - Result-oriented business model (income share agreements)
-- Experience getting into and working at Google X
-- Experience getting into and going through YCombinator
+- Experience working in Google's US, Switzerland, Ireland offices
 - Funding
-- Based in San Francisco
-- Community 
-  - top investors including YCombinator, executives from Google, Facebook (more might be announced soon)
-  - Google and Google X networks, close relationships with Google recruiting, engineering managers
-    - US, Switzerland, Ireland offices
-    - Country managers and points of contact for Eastern Europe, Asia, Africa, Latin America
+- Community
   - Central Asians at top tech companies
-  - YCombinator network
   - engaged alumni
-  - partnerships
-    - interviewing.io
-    - CodeSignal
-    - Team Blind
-  - friends & partners at many top tech companies
-    - Accenture
-    - Adobe
-    - Amazon
-    - Apple
-    - Asana
-    - Atlassian
-    - Booking.com
-    - Cisco
-    - Coinbase
-    - Deep Mind
-    - Facebook
-    - Figma
-    - Google
-    - Lyft
-    - Microsoft
-    - Netflix
-    - NVIDIA
-    - Open AI
-    - PayPal
-    - Reddit
-    - Salesforce
-    - Samsara
-    - Segment
-    - Snap
-    - Spotify
-    - Stripe
-    - Tesla
-    - Twitter
-    - Uber
-    - UpWork
-    - WeWork
-    - Yelp
+  - friends & partners at 32 top tech companies (as of 2020-02-11)
+    - list: https://github.com/tilek/random/blob/master/company_champions.txt
