@@ -8,6 +8,7 @@ Level 1 (18 companies)
 - Google
 - Microsoft
 - NVIDIA
+- Palantir
 - Reddit
 - Salesforce
 - Segment
@@ -25,6 +26,7 @@ Level 2 (14 companies)
 - Asana
 - Atlassian
 - Figma
+- IBM
 - Lyft
 - Netflix
 - Open AI
@@ -33,3 +35,11 @@ Level 2 (14 companies)
 - Spotify
 - UpWork
 - Yelp
+
+Level 3 
+- Airbnb
+- GitHub
+- Intel
+- Oracle
+- Slack
+- VMWare
