@@ -28,7 +28,6 @@ Level 2 (14 companies)
 - Figma
 - IBM
 - Lyft
-- Netflix
 - Open AI
 - PayPal
 - Samsara
