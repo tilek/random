@@ -25,4 +25,12 @@ This is focused on pre-product market fit (pre-seed and seed) stages.
 
 3. Founder-market fit (specific market)
 4. Specific idea for targeted market
+4.1. Problem
+4.2. Solution
+4.3. Market timing
+4.4. Customer acquisitions & go-to-market
+4.5. Unit economics
+4.6. Competition
 5. Implemented technology & product
+6. Traction
+7. Financials
