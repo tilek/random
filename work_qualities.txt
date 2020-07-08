@@ -12,6 +12,7 @@ Examples of important areas excluded from this list for now:
 
 1.1. Communication skills
 
+- Ability to choose wording effectively
 - Ability to communicate well during stressful situations
 - Ability to convince people
 - Ability to explain complex concepts simply
