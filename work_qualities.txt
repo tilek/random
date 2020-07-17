@@ -5,64 +5,67 @@ I created this list to help myself and others find and evaluate people to collab
 
 1.1. Analytical skills
 
-- Ability to identify key variables in a complex situation
+- Build a good model based on given information
+  [Critical thinking and gaining new knowledge are considered to be a part of this.]
+- Identify key variables in a situation
   (e.g. what are the key problems in a startup that is not meeting its goals)
-- Ability to build a good model based on given information
-  Note: critical thinking is a subset of this.
   
 1.2. Problem solving, ideation, creativity
 
-- Ability to generate candidate actions based on context and goals effectively
+- Generate candidate actions based on context and goals effectively
   (e.g. coming up with a good business idea, coming up with a good joke [includes problem-solving])
   [If the actions are diverse and surprising it seems to be called creativity.]
-- Evaluating candidate actions
+- Evaluate candidate actions
   (e.g. estimating whether an idea will be good or a joke will be funny)
 
 1.3. Communication skills
 
-- Ability to choose wording effectively
-- Ability to communicate well during stressful situations
-- Ability to convince people
-- Ability to explain complex concepts simply
-- Ability to explain thoughts well verbally
-- Ability to explain thoughts well in writing
-- Ability to present a compelling vision
-- Ability to provide good personal development feedback
-- Ability to tell a compelling story
-- Ability to get people to quickly like you
+- Choose wording effectively
+- Communicate well during stressful situations
+- Convince people
+- Explain complex concepts simply
+- Explain thoughts well verbally
+- Explain thoughts well in writing
+- Present a compelling vision
+- Provide good personal development feedback
+- Tell a compelling story
+- Get people to like you
 
 1.4. Learning skills
 
-- Ability to learn complex concepts quickly
-- Ability to learn new skills quickly
-- Ability to learn new skills independently
-- Ability to think critically
+- Learn a new skill
 
 1.5. Productivity skills
 
-- Ability to choose goals rationally
-- Ability to make good decisions quickly
-- Ability to focus on a task
-- Ability to focus on a long-term goal
-- Ability to perform well under pressure
-- Ability to plan time well
-- Ability to work independently
+- Choose goals rationally
+- Make good decisions
+- Focus on a task
+- Focus on a long-term goal
+- Perform under pressure
+- Plan time
+- Work independently
 
 1.6. Resourcefulness, discipline, resilience, and grit
 
-- Ability to find clever ways to overcome challenges
-- Ability to gain extra motivation from challenging events
-- Ability to manage own mood during challenging events
-- Ability to quickly recover from challenging events
+- Find clever ways to overcome challenges
+- Gain extra motivation from challenging events
+- Manage own mood during challenging events
+- Recover from challenging events
 - Discipline to complete unpleasant work to achieve set goals
 - Discipline to make stable progress
 - Discipline to meet commitments or inform otherwise
 
 1.7. Self-improvement skills
 
-- Ability to build new good habits
-- Ability to stop bad habits
-- Ability to quickly self-improve
+- Building habits
+- Stopping habits
+- Improving themselves in general
+
+
+Variables that help measure the skills:
+- Speed
+- Independence from help
+- Intellectual/informational complexity of a situation
 
 
 2. People's preferences.
