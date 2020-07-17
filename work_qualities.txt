@@ -1,14 +1,22 @@
 I created this list to help myself and others find and evaluate people to collaborate with.
 
-Examples of important areas excluded from this list for now: 
-- general intellectual abilities such as problem solving, creativity
-- domain-specific skills (e.g. engineering)
-- language skills (e.g. English grammar)
-- qualities more suitable for friendships (e.g. coming up with good jokes, ability to improve someone's mood)
-- knowledge of concepts and facts
-
 
 1. People's abilities.
+
+1.1. Analytical skills
+
+- Ability to identify key variables in a complex situation
+  (e.g. what are the key problems in a startup that is not meeting its goals)
+- Ability to build a good model based on given information
+  Note: critical thinking is a subset of this.
+  
+1.2. Problem solving, ideation, creativity
+
+- Ability to generate candidate actions based on context and goals effectively
+  (e.g. coming up with a good business idea, coming up with a good joke [includes problem-solving])
+  [If the actions are diverse and surprising it seems to be called creativity.]
+- Evaluating candidate actions
+  (e.g. estimating whether an idea will be good or a joke will be funny)
 
 1.1. Communication skills
 
@@ -99,3 +107,13 @@ Examples of important areas excluded from this list for now:
 - Proactiveness
 - Pursuit of quality
 - Taking responsibility for failures
+
+
+
+Examples of important areas that are excluded from this list for now: 
+- domain-specific skills (e.g. engineering)
+- language skills (e.g. English grammar)
+- qualities more suitable for friendships (e.g. coming up with good jokes, ability to improve someone's mood)
+- knowledge of concepts and facts
+- memory
+- [TODO: think about abilities that help learn math]
