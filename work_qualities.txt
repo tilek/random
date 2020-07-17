@@ -45,17 +45,19 @@ I created this list to help myself and others find and evaluate people to collab
 - Plan time
 - Work independently
 
-1.6. Resourcefulness, discipline, resilience, and grit
+1.6. Resilience
 
-- Find clever ways to overcome challenges
-- Gain extra motivation from challenging events
 - Manage own mood during challenging events
 - Recover from challenging events
-- Discipline to complete unpleasant work to achieve set goals
-- Discipline to make stable progress
-- Discipline to meet commitments or inform otherwise
+- Gain extra motivation from challenging events
 
-1.7. Self-improvement skills
+1.7. Discipline
+
+- Complete unpleasant work to achieve set goals
+- Make stable progress
+- Meet commitments or inform otherwise
+
+1.8. Self-improvement skills
 
 - Building habits
 - Stopping habits
@@ -66,6 +68,7 @@ Variables that help measure the skills:
 - Speed
 - Independence from help
 - Intellectual/informational complexity of a situation
+- Dealing with a stressful situation
 
 
 2. People's preferences.
