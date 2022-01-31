@@ -39,7 +39,7 @@
 
 2.2. Exceptional external integrity
 
-- You made it explicit what your levels of secrecty are and what information you are sharing and not sharing:
+- You made it explicit what your levels of secrecy are and what information you are sharing and not sharing:
   - only you
   - your therapist(s)
   - your life partner
