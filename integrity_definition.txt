@@ -11,12 +11,12 @@
 
 1.2. Personal external integrity
 
-- You present only truthful information, exception situations that fall under designed exceptions (see. 1.2.1)
+- You present only truthful information, excluding situations that fall under designed exceptions (see. 1.2.1)
 - You put an effort to act and speak in a way that makes sure your allies have a truthful picture of what you think about them
 
   1.2.1. Agreed exceptions to external integrity
 
-  - When you am forced to deal with someone who
+  - When you are forced to deal with someone who
     - is irrational (believes in incorrect information, thinks irrationally, acts irrationally, may be having a serious mental health condition)
     - is likely to harm you in a way you wouldn't harm them
 
@@ -24,11 +24,6 @@
   - you are Jewish in Nazi Germany 
   - you are atheist in Afghanistan
   - you are gay in Nigeria
-
-3. Organizational external integrity
-
-- All communicated information paints a truthful picture of the reality
-
 ---------------------------------------------------------------------------------------------------------------------------------------
 2. My personal definition of exceptional integrity
 ---------------------------------------------------------------------------------------------------------------------------------------
