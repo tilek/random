@@ -1,14 +1,15 @@
-Here is a framework I came up with to help myself evaluate early-stage startups (pre-product market / pre-seed & seed).
-It helped me evaluate my own startup from the eyes of potential great investors too.
+This document is meant to present a framework to evaluate early-stage startups (pre-product market / pre-seed & seed).
 
-All my early-stage investments:
+I initially came up with this framework in order to evaluate my own startup from the eyes of potential investors. I think it was likely during fundraising of Autumn 2019. It is designed to help me evaluate potential future investments too.
+
+Here are all my early-stage investments, I did not explicitly use this framework for my decision making but I used some of it implicitly:
 2020-02-22 Primer (https://primer.com/) / online learning community for children / idea stage
 2021-01-08 NBFit (https://nbfit.online/) / online fitness trainings for women / already had technology & users
 2021-08-13 Marvin (https://www.meetmarvin.com/) / personalized mental health support for clinicians / already had technology & users
 
-While I am very satisfied with my investments, please judge the outcomes for yourself whether they are a success in your eyes.
+While I am very satisfied with my investments, please judge the outcomes for yourself.
 
-The framework:
+And here is the framework itself:
 
 1. Individual founders
 1.1. General work skills and preferences:
@@ -31,14 +32,22 @@ The framework:
 - Power dynamic, respect, appreciation
 2.2. Skills complementarity
 
-3. Founder-market fit (specific market)
-4. Specific idea for targeted market
-4.1. Problem
-4.2. Solution
-4.3. Market timing
-4.4. Customer acquisitions & go-to-market
-4.5. Unit economics
-4.6. Competition
-5. Implemented technology & product
-6. Traction
-7. Financials
+3. Founder-market fit
+
+4. Targeted market
+4.1. Market growth
+
+5. Specific idea for targeted market
+5.1. Problem
+5.2. Solution
+5.3. Market timing
+5.4. Business strategy
+5.4.1. Unit economics
+5.4.2. Customer acquisition & go-to-market
+5.4.3. Competition
+
+6. Implemented technology & product
+
+7. Traction
+
+8. Financials
