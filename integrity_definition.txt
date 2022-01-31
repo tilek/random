@@ -34,13 +34,13 @@
 
 2.2. Exceptional external integrity
 
-- You made it explicit what your levels of secrecy are and what information you are sharing and not sharing:
-  - only you
+- You made it explicit what your levels of secrecy are and what information you are sharing and not sharing, e.g.
+  - you
   - your therapist(s)
   - your life partner
   - your close friends (e.g. 10)
-  - your brother
-  - your parents
-  - many of your friends (e.g. 100)
+  - your sibling(s)
+  - your parent(s)
+  - all of your friends (e.g. 100)
   - public
 ---------------------------------------------------------------------------------------------------------------------------------------
