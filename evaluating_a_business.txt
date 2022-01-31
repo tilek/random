@@ -1,10 +1,18 @@
-DRAFT
+Here is a framework I came up with to help myself evaluate early-stage startups (pre-product market / pre-seed & seed).
+It helped me evaluate my own startup from the eyes of potential great investors too.
 
-This is focused on pre-product market fit (pre-seed and seed) stages.
+All my early-stage investments:
+2020-02-22 Primer (https://primer.com/) / online learning community for children / idea stage
+2021-01-08 NBFit (https://nbfit.online/) / online fitness trainings for women / already had technology & users
+2021-08-13 Marvin (https://www.meetmarvin.com/) / personalized mental health support for clinicians / already had technology & users
+
+While I am very satisfied with my investments, please judge the outcomes for yourself whether they are a success in your eyes.
+
+The framework:
 
 1. Individual founders
 1.1. General work skills and preferences:
-     https://github.com/tilek/random/blob/master/work_qualities.txt
+     https://github.com/tilek > random > work_qualities.txt
 1.2. General intelligence
 1.3. Leadership skills
 1.4. Domain-specific skills
