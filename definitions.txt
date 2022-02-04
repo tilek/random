@@ -1,0 +1,13 @@
+[I] 
+Intuition - human's way to quickly estimate a prediction that is mainly opaque to the human itself.
+
+[R]
+Rational thinking is thinking using logic and intution while avoiding human biases.
+- Positive examples: using double-blind, randomized, placebo-controlled trials to compare the influence of two drugs.
+- Negative examples: using horoscope to make decisions.
+
+Rational acting is acting in your own best interests while avoiding harmful urges.
+- Positive example: taking a blood sample to understand the risk of diabetes.
+- Negative examples: overeating sugary products and getting diabetes.
+
+Rationality - correctly thinking using logic and intuition, plus acting in your own best interests.
