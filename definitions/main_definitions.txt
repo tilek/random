@@ -1,5 +1,11 @@
 [I] 
+Integrity - having strict moral principles and following them.
+
 Intuition - human's way to quickly estimate a prediction that is mainly opaque to the human itself.
+
+[P]
+
+Principle - a rule you set for yourself.
 
 [R]
 Rational thinking is thinking using logic and intution while avoiding human biases.
@@ -11,3 +17,14 @@ Rational acting is acting in your own best interests while avoiding harmful urge
 - Negative examples: overeating sugary products and getting diabetes.
 
 Rationality - correctly thinking using logic and intuition, plus acting in your own best interests.
+
+Rule - obligation or forbiddance of a certain pattern of behavior.
+- Rules may or may not have rewards or punishments associated with them.
+- Example: you are not allowed to smoke on the plane.
+- Example: you need to buckle your seat belt when you see a seat belt sign turn on.
+
+[V]
+
+Values - physical states or patterns of human behavior someone values.
+- Examples of physical states: health, happiness, safety
+- Examples of patterns of behavior: honesty, integrity, courage, creativity, diversity, animal rights (respect of animal rights).
