@@ -1,0 +1,35 @@
+DRAFT
+
+Inspired by Ray Dalio I will experiment by writing down principles I used for decision making.
+
+Sections:
+
+1. Work
+--------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+1.1. Universal work principles
+--------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+1.1.x. A company contractor is asking to share company's information outside the scope of their work.
+--------------------------------------------------------------------------------------------------------------------------------------
+1.2. Running a company
+--------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+1.2.x. Before a person starts collaborating, identify potential competition and agree on communications.
+- Have a written non-compete agreement where possible, if too hard or unnecessary, then have a written agreement that the person will
+  notify if the chance of a potential competition significantly changed (e.g. by ~5%) or it hit a certain threshold (e.g. 10%).
+--------------------------------------------------------------------------------------------------------------------------------------
+1.2.x. Once you reach an agreement to collaborate with a person, clearly identify for yourself their trust and access level:
+- Company partners (need-based access only)
+- Extended community / company's friends (sharing monthly updates, accomplishments)
+- Private community (access to "public" channels in a private online group communication, need-based documentation read access)
+- Core community (access to special news, need-based edit document/data access)
+- Team (need-based password access, team folders with documents)
+- Core team (passwords to all main team's online accounts, people's salaries, read company finances, need-based ability to pay)
+- CEO (ability to approve company contracts)
+--------------------------------------------------------------------------------------------------------------------------------------
+2. Personal life
+--------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
