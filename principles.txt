@@ -30,6 +30,8 @@ For example:
 - Core team (passwords to all main team's online accounts, people's salaries, read company finances, need-based ability to pay)
 - CEO (ability to approve company contracts)
 --------------------------------------------------------------------------------------------------------------------------------------
+1.2.x. If I am acting in a role of a manager or educational batch manager and someone performs below the agreed bar, do not come up with a sanction on the spot and announce it, only announce that you want to talk 1-1 after the meeting. Then, have a 1-1 chat right after, explain what you saw, show how you think such performance maps to reward-sanction agreements, and only after some feedback execute the pre-agreed rules. If needed, you can communicate about the decided sanctions to needed people after the emotions of the situation settle.
+--------------------------------------------------------------------------------------------------------------------------------------
 1.2.x. Right before raising your seed round, learn the key financial and business terms.
 Examples:
 - gross margin
