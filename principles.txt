@@ -20,7 +20,8 @@ Sections:
 - Have a written non-compete agreement where possible, if too hard or unnecessary, then have a written agreement that the person will
   notify if the chance of a potential competition significantly changed (e.g. by ~5%) or it hit a certain threshold (e.g. 10%).
 --------------------------------------------------------------------------------------------------------------------------------------
-1.2.x. Once you reach an agreement to collaborate with a person, clearly identify for yourself their trust and access level:
+1.2.x. Once you reach an agreement to collaborate with a person, clearly identify for yourself their trust and access level.
+For example:
 - Company partners (need-based access only)
 - Extended community / company's friends (sharing monthly updates, accomplishments)
 - Private community (access to "public" channels in a private online group communication, need-based documentation read access)
