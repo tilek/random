@@ -1,48 +1,61 @@
-Total words: 43
-
-BASIC
+STATE OF THINGS OR PEOPLE
 - be (e.g. I am ready, what vegetables are in this soup)
+- have (e.g. do you have vegan options, do you have chilren)
+- live
+- appear/look (e.g. you look young, it looks great, it looks beautiful)
+- appear/seem (e.g. he seems kind)
+- contain
 
-CORE COMMUNICATION
+COMMUNICATION
 - speak
 - meet
 - ask
 - answer
+- recommend
 
-KNOWLEDGE
+KNOWLEDGE & ABILITIES
 - understand
 - know
 - forget
 - think
 - learn (e.g. where did you learn your English)
 - study (e.g. where did you study)
+- can/able
 
-BASIC ACTIONS WITH THINGS
-- have (e.g. do you have vegan options, do you have chilren)
-- get [receive/obtain] (e.g. can I get the bill please, where can I get a spoon)
+PEOPLE'S PREFERENCES & FEELINGS
+- feel
+- want
+- like
+- love
+
+COLLABORATION
 - give 
-- bring (e.g. can you bring some water please)
-- make
+- help
+
+ACTIONS WITH THINGS & PEOPLE
 - do (e.g. can I "do" a video call here?)
-- see (e.g. did you see any waterfalls there?)
-- appear/look (e.g. you look young, it looks great, it looks beautiful)
-- contain
+- make
+- get [receive/obtain] (e.g. can I get the bill please, where can I get a spoon)
+- bring (e.g. can you bring some water please)
 - take (e.g. can I take the salad with me)
 - use (e.g. can I use your bathroom)
+- see (e.g. did you see any waterfalls there?)
+- watch
+- look
+- hear
+- listen
 
 MOVEMENT & POSITION
 - get to [arrive at] (e.g. how can I get to the airport?)
 - go (e.g. I go there to work)
+- come
+- return
+- arrive
 - sit
 - stand
 - wait (e.g. please wait a moment - I want to use a translation)
 - find (e.g. where can I find an ice-cream shop?)
-
-GENERAL GOALS & PREFERENCES
-- want
-- like
-- recommend
-- help
+- walk
 
 COMMERCE
 - buy
@@ -50,11 +63,14 @@ COMMERCE
 - pay
 - cost
 - work
-- drink
-- eat
 - try (e.g. can I try this shirt on?)
 - order (e.g. I am ready to order)
+
+FOOD
+- drink
+- eat
 
 EXTRA SOCIAL VERBS
 - play (e.g. play football)
 - grow up (e.g. did you grow up in Sao Paulo?)
+- go out
