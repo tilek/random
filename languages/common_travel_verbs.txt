@@ -1,3 +1,5 @@
+Total words: 43
+
 BASIC
 - be (e.g. I am ready, what vegetables are in this soup)
 
