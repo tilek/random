@@ -1,53 +1,64 @@
-1. BEFORE LIVING BEING
+DRAFT
 
-STATE OF THINGS OR LIVING BEINGS
-- be [state] (e.g. I am ready, what vegetables are in this soup)
-- have [posess or contain something] (e.g. do you have chilren, do you have vegan options, the door has a lock)
+1. BEFORE THE BIG BANG POTENTIALLY
+
+STATE OF A THING
+- be [state]
+- open
+- close
+
+PASSIVE RELATIONSHIP
+- have [something exists in relation to it] (e.g. the star has two planets orbiting it)
+- contain
+
+2. WITH BIG BANG & ENERGY, BEFORE LIVING BEINGS
+
+BASIC PROCESS
 - do [any process]
 
-STATE OF THINGS
-- contain (e.g. does it contain milk)
-- open (e.g. what time do you open the shop tomorrow)
-- close (e.g. what time do you close the shop tomorrow)
+BASIC ACTIONS
+- can/able [can accomplish a certain action]
+- make
+- use (e.g. the supernova used an immense amount of energy)
 
 BASIC MOVEMENT
 - go (e.g. I go there to work)
 - come
 - return
-- get to [arrive at a location] (e.g. how can I get to the airport)
+- get to [arrive at a location]
 - arrive
 - leave
 - meet [two things/beings appear at one location]
 - travel
 
-2. LIVING BEINGS APPEARED
+2. LIVING BEINGS - BEFORE SLEEP
 
 STATE OF LIVING BEINGS
-- live [general area of residence]
-- live [be alive]
+- live [general area of residence] (e.g. these bacteria lives in the Pacific Ocean)
 
-3. LIVING BEINGS WITH BASIC INTELLIGENCE APPEARED
+3. LIVING BEINGS
 
-HEAD-RELATED ACTIONS
-- sleep
-- look [focus eyes but not necessarily register]
-- see [register with eyes in a short or long amount of time] (e.g. did you see any waterfalls there)
-- watch [register with eyes for a long amount of time] (e.g. can I watch my movie in this room tomorrow)
-- hear
-- listen
-
-THOUGHTFUL ACTIONS WITH THINGS OR PEOPLE
-- make
-- use (e.g. can I use your bathroom)
-
-KNOWLEDGE & ABILITIES
-- can/able [can accomplish a certain goal]
-- think [process in the brain]
+BASIC INFORMATION PROCESSING
 - know [have certain information]
 - forget [lose certain information]
+
+SLEEP ~700 million years ago
+- sleep
+
+SEEING ~570-520 million years ago
+- look [focus eyes but not necessarily register]
+- watch [focus eyes for a long amount of time] (e.g. the fly)
+- see [register with eyes] (e.g. did you see any waterfalls there)
+
+HEARING ~480 million years ago
+- listen [focus ears for a long amount of time] (e.g. the fly was listening to the surrounding sounds)
+- hear [register with ears]
+
+ADVANCED INFORMATION PROCESSING
+- think [process in the brain]
 - understand [have a logical model]
-- learn [develop a logical model] (e.g. where did you learn your English)
-- study [develop logical models using a system] (e.g. where did you study)
+- learn [develop a logical model] (e.g. learned to go to sleep later)
+- study [develop logical models using a system] (e.g. the predator studied its prey's migration patterns)
 
 FOOD
 - drink
