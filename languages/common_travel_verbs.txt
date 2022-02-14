@@ -9,6 +9,7 @@ STATE OF LIVING BEINGS
 
 STATE OF THINGS
 - contain (e.g. does it contain milk)
+- work [successfully performs its function] (e.g. does this phone work)
 
 COMMUNICATION
 - talk [exchange information using language]
@@ -45,12 +46,12 @@ COLLABORATION
 - help
 - recommend
 
-GENERAL ACTIONS WITH THINGS & PEOPLE
+GENERAL ACTIONS WITH THINGS OR PEOPLE
 - do
 - make
 - use (e.g. can I use your bathroom)
 
-PHYSICAL ACTIONS WITH THINGS & PEOPLE
+MOVING THINGS OR PEOPLE
 - get [receive/obtain] (e.g. can I get the bill please, where can I get a spoon)
 - bring (e.g. can you bring some water please)
 - take (e.g. can I take the salad with me)
@@ -68,24 +69,26 @@ MOVEMENT
 - return
 - get to [arrive at a location] (e.g. how can I get to the airport)
 - arrive
-- travel
 - walk
 - find (e.g. where can I find an ice-cream shop)
 - meet [move to one location]
+- travel
 
 POSITION
 - sit
 - stand
-- wait (e.g. please wait a moment - I want to use a translation)
+- wait (e.g. please wait a minute)
 
 COMMERCE
 - buy
 - sell
 - pay
 - cost
-- work
+- work [commercial process] 
 - try (e.g. can I try this shirt on)
 - order (e.g. I am ready to order)
+- open (e.g. what time do you open the shop tomorrow)
+- close (e.g. what time do you close the shop tomorrow)
 
 FOOD
 - drink
