@@ -1,27 +1,31 @@
 DRAFT
 
-1. BEFORE THE BIG BANG POTENTIALLY
+1. UNIVERSE
 
-STATE OF A THING
+PASSIVE STATE
 - be [state]
-- open
-- close
 
 PASSIVE RELATIONSHIP
-- have [something exists in relation to it] (e.g. the star has two planets orbiting it)
+- have [something exists in relation to it]
+- need
 - contain
-
-2. WITH BIG BANG & ENERGY, BEFORE LIVING BEINGS
 
 BASIC PROCESS
 - do [any process]
+- can/able [can accomplish a certain action]
 
 BASIC ACTIONS
-- can/able [can accomplish a certain action]
+- get [receive/obtain]
+- bring
+- take
 - make
 - use (e.g. the supernova used an immense amount of energy)
+- give
+- help
 
 BASIC MOVEMENT
+- sit
+- stand
 - go (e.g. I go there to work)
 - come
 - return
@@ -31,16 +35,29 @@ BASIC MOVEMENT
 - meet [two things/beings appear at one location]
 - travel
 
-2. LIVING BEINGS - BEFORE SLEEP
+2. LIVING BEINGS WITHOUT BRAIN
 
-STATE OF LIVING BEINGS
+RESIDENCE
 - live [general area of residence] (e.g. these bacteria lives in the Pacific Ocean)
 
-3. LIVING BEINGS
+3. LIVING BEINGS WITH BASIC BRAIN
 
-BASIC INFORMATION PROCESSING
-- know [have certain information]
-- forget [lose certain information]
+PERCEPTION
+- feel [conscious experience]
+
+BASIC MEMORY
+- forget [lose certain information] (e.g. the fly forgot that it already hit that window)
+
+PREFERENCES
+- want
+- like
+
+MOVING THINGS OR LIVING BEINGS
+
+
+MEALS
+- drink
+- eat
 
 SLEEP ~700 million years ago
 - sleep
@@ -49,47 +66,29 @@ SEEING ~570-520 million years ago
 - look [focus eyes but not necessarily register]
 - watch [focus eyes for a long amount of time] (e.g. the fly)
 - see [register with eyes] (e.g. did you see any waterfalls there)
+- look [appearance] (e.g. human looks a bit like a chimp, you look young, it looks beautiful)
+- seem [quick logical model] (e.g. the predator seems far enough, the boy seems kind)
 
 HEARING ~480 million years ago
 - listen [focus ears for a long amount of time] (e.g. the fly was listening to the surrounding sounds)
 - hear [register with ears]
 
+4. LIVING BEINGS WITH ADVANCED BRAIN
+
 ADVANCED INFORMATION PROCESSING
+- know [have certain information]
 - think [process in the brain]
 - understand [have a logical model]
 - learn [develop a logical model] (e.g. learned to go to sleep later)
 - study [develop logical models using a system] (e.g. the predator studied its prey's migration patterns)
 
-FOOD
-- drink
-- eat
-
-PREFERENCES, OPINION, PERCEPTION
-- feel
-- want
-- need
-- like
+COMPLEX FEELINGS
 - love
-- look [appearance] (e.g. human looks a bit like a chimp, you look young, it looks beautiful)
-- seem [quick logical model] (e.g. the predator seems far enough, the boy seems kind)
-
-MOVING THINGS OR LIVING BEINGS
-- get [receive/obtain] (e.g. can I get the bill please, where can I get a spoon)
-- bring (e.g. can you bring some water please)
-- take (e.g. can I take the salad with me)
-
-POSITION
-- sit
-- stand
-- wait (e.g. please wait a minute)
 
 THOUGTHFUL MOVEMENT
-- find (e.g. where can I find an ice-cream shop)
+- wait (e.g. please wait a minute)
+- find
 - try (e.g. can I try this shirt on)
-
-BASIC COLLABORATION
-- give
-- help
 
 4. LIVING BEING WITH ADVANCED INTELLIGENCE APPEARED
 
