@@ -2,7 +2,7 @@
 1. UNIVERSE
 ----------------------------------------------------------------
 PASSIVE STATE
-- be [state]
+- be
 
 PASSIVE RELATIONSHIP
 - have [something exists in relation to it]
@@ -10,39 +10,36 @@ PASSIVE RELATIONSHIP
 - contain
 
 BASIC PROCESS
-- do [any process]
-- can/able [can accomplish a certain action]
+- do
+- can/able
 
 BASIC ACTIONS
-- get [receive/obtain]
+- get
 - bring
 - take
 - make
-- use (e.g. the supernova used an immense amount of energy)
+- use
 - give
 - help
 
 BASIC MOVEMENT
-- go (e.g. I go there to work)
+- go
 - come
 - return
-- get to [arrive at a location]
 - arrive
 - leave
-- meet [two things/beings appear at one location]
-- travel
 
 ----------------------------------------------------------------
 2. LIVING BEINGS
 ----------------------------------------------------------------
 RESIDENCE
-- live [general area of residence] (e.g. these bacteria lives in the Pacific Ocean)
+- live (e.g. these bacteria live in the Pacific Ocean)
 
 ----------------------------------------------------------------
 3. ANIMALS
 ----------------------------------------------------------------
 PERCEPTION
-- feel
+- feel (e.g. insects might be able to feel pain)
 
 BASIC MEMORY
 - forget (e.g. the fly forgot that it already hit that window)
@@ -65,13 +62,13 @@ SLEEP ~700 million years ago
 
 SEEING ~570-520 million years ago
 - look [focus eyes but not necessarily register]
-- watch [focus eyes for a long amount of time] (e.g. the fly)
-- see [register with eyes] (e.g. did you see any waterfalls there)
+- watch [focus eyes for a long amount of time]
+- see [register with eyes]
 - look [appearance] (e.g. human looks a bit like a chimp, you look young, it looks beautiful)
 - seem [quick logical model, usually involving vision] (e.g. the predator seems far enough to the animal, the boy seems kind)
 
 HEARING ~480 million years ago
-- listen [focus ears for a long amount of time] (e.g. the fly was listening to the surrounding sounds)
+- listen [focus ears for a long amount of time]
 - hear [register with ears]
 
 BASIC POSITION
