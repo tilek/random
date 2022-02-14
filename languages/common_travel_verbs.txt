@@ -1,7 +1,6 @@
-DRAFT
-
+----------------------------------------------------------------
 1. UNIVERSE
-
+----------------------------------------------------------------
 PASSIVE STATE
 - be [state]
 
@@ -24,8 +23,6 @@ BASIC ACTIONS
 - help
 
 BASIC MOVEMENT
-- sit
-- stand
 - go (e.g. I go there to work)
 - come
 - return
@@ -35,27 +32,31 @@ BASIC MOVEMENT
 - meet [two things/beings appear at one location]
 - travel
 
-2. LIVING BEINGS WITHOUT BRAIN
-
+----------------------------------------------------------------
+2. LIVING BEINGS
+----------------------------------------------------------------
 RESIDENCE
 - live [general area of residence] (e.g. these bacteria lives in the Pacific Ocean)
 
-3. LIVING BEINGS WITH BASIC BRAIN
-
+----------------------------------------------------------------
+3. ANIMALS
+----------------------------------------------------------------
 PERCEPTION
-- feel [conscious experience]
+- feel
 
 BASIC MEMORY
-- forget [lose certain information] (e.g. the fly forgot that it already hit that window)
+- forget (e.g. the fly forgot that it already hit that window)
 
 PREFERENCES
 - want
 - like
 
-MOVING THINGS OR LIVING BEINGS
+MOVEMENT WITH A GOAL
+- wait
+- find
+- try
 
-
-MEALS
+CONSUMPTION WITH A GOAL
 - drink
 - eat
 
@@ -67,14 +68,19 @@ SEEING ~570-520 million years ago
 - watch [focus eyes for a long amount of time] (e.g. the fly)
 - see [register with eyes] (e.g. did you see any waterfalls there)
 - look [appearance] (e.g. human looks a bit like a chimp, you look young, it looks beautiful)
-- seem [quick logical model] (e.g. the predator seems far enough, the boy seems kind)
+- seem [quick logical model, usually involving vision] (e.g. the predator seems far enough to the animal, the boy seems kind)
 
 HEARING ~480 million years ago
 - listen [focus ears for a long amount of time] (e.g. the fly was listening to the surrounding sounds)
 - hear [register with ears]
 
-4. LIVING BEINGS WITH ADVANCED BRAIN
+BASIC POSITION
+- sit
+- stand
 
+----------------------------------------------------------------
+4. HIGHLY INTELLIGENT ANIMALS
+----------------------------------------------------------------
 ADVANCED INFORMATION PROCESSING
 - know [have certain information]
 - think [process in the brain]
@@ -85,13 +91,9 @@ ADVANCED INFORMATION PROCESSING
 COMPLEX FEELINGS
 - love
 
-THOUGTHFUL MOVEMENT
-- wait (e.g. please wait a minute)
-- find
-- try (e.g. can I try this shirt on)
-
-4. LIVING BEING WITH ADVANCED INTELLIGENCE APPEARED
-
+----------------------------------------------------------------
+5. HUMANS & AI
+----------------------------------------------------------------
 BASIC COMMUNICATION
 - say [provide a short piece of information using language]
 - tell [provide a long piece of information using language]
@@ -110,9 +112,9 @@ WRITTEN COMMUNICATION
 - read [get information using written language]
 
 COMMERCE
+- work [commercial process] 
 - buy
 - sell
 - pay
 - cost
-- work [commercial process] 
 - order (e.g. I am ready to order)
