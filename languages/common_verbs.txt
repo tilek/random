@@ -95,7 +95,7 @@ COMPLEX FEELINGS
 --------------------------------------------------------------------------------------------------------------------------------
 5. HUMANS & AI
 --------------------------------------------------------------------------------------------------------------------------------
-BASIC COMMUNICATION
+VERBAL & SIMILAR COMMUNICATION
 - say [provide a short piece of information using language]
 - tell [provide a long piece of information using language]
 - talk [exchange information using language]
@@ -109,13 +109,13 @@ BASIC COMMUNICATION
 - recommend
 
 WRITTEN COMMUNICATION
-- write [record information using written language]
-- read [get information using written language]
+- write
+- read
 
 COMMERCE
-- work [commercial process] 
+- work
 - buy
 - sell
 - pay
 - cost
-- order (e.g. I am ready to order)
+- order
