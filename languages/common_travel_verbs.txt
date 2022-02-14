@@ -1,17 +1,23 @@
-STATE OF THINGS OR PEOPLE
+STATE OF THINGS OR LIVING BEINGS
 - be (e.g. I am ready, what vegetables are in this soup)
 - have (e.g. do you have vegan options, do you have chilren)
+
+STATE OF LIVING BEINGS
 - live
-- appear/look (e.g. you look young, it looks great, it looks beautiful)
-- appear/seem (e.g. he seems kind)
-- contain
+- sleep
+
+STATE OF THINGS
+- contain (e.g. does it contain milk)
 
 COMMUNICATION
 - speak
-- meet
 - ask
 - answer
-- recommend
+- write
+- read
+- call [name something/someone]
+- call [request someone to appear at this location]
+- meet [get to know each other]
 
 KNOWLEDGE & ABILITIES
 - understand
@@ -22,40 +28,49 @@ KNOWLEDGE & ABILITIES
 - study (e.g. where did you study)
 - can/able
 
-PEOPLE'S PREFERENCES & FEELINGS
+PEOPLE'S PREFERENCES, OPINION, PERCEPTION
 - feel
 - want
+- need
 - like
 - love
+- look [appearance] (e.g. you look young, it looks beautiful)
+- seem [early opinion] (e.g. he seems kind)
 
 COLLABORATION
 - give 
 - help
+- recommend
 
 ACTIONS WITH THINGS & PEOPLE
-- do (e.g. can I "do" a video call here?)
+- do (e.g. can I "do" a video call here)
 - make
 - get [receive/obtain] (e.g. can I get the bill please, where can I get a spoon)
 - bring (e.g. can you bring some water please)
 - take (e.g. can I take the salad with me)
 - use (e.g. can I use your bathroom)
-- see (e.g. did you see any waterfalls there?)
-- watch
-- look
+- look [focus eyes but not necessarily register]
+- see [register with eyes in a short or long amount of time] (e.g. did you see any waterfalls there)
+- watch [register with eyes for a long amount of time] (e.g. can I watch my movie in this room tomorrow)
 - hear
 - listen
 
-MOVEMENT & POSITION
-- get to [arrive at] (e.g. how can I get to the airport?)
+MOVEMENT
 - go (e.g. I go there to work)
 - come
 - return
+- get to [arrive at a location] (e.g. how can I get to the airport)
 - arrive
+- travel
+- walk
+- find (e.g. where can I find an ice-cream shop)
+- meet [move to one location]
+
+POSITION
 - sit
 - stand
 - wait (e.g. please wait a moment - I want to use a translation)
-- find (e.g. where can I find an ice-cream shop?)
-- walk
+- rest
 
 COMMERCE
 - buy
@@ -63,7 +78,7 @@ COMMERCE
 - pay
 - cost
 - work
-- try (e.g. can I try this shirt on?)
+- try (e.g. can I try this shirt on)
 - order (e.g. I am ready to order)
 
 FOOD
@@ -72,5 +87,5 @@ FOOD
 
 EXTRA SOCIAL VERBS
 - play (e.g. play football)
-- grow up (e.g. did you grow up in Sao Paulo?)
+- grow up (e.g. did you grow up in Sao Paulo)
 - go out
