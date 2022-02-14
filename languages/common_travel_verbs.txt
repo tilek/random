@@ -1,27 +1,44 @@
+1. BEFORE LIVING BEING
+
 STATE OF THINGS OR LIVING BEINGS
 - be [state] (e.g. I am ready, what vegetables are in this soup)
 - have [posess or contain something] (e.g. do you have chilren, do you have vegan options, the door has a lock)
+- do [any process]
+
+STATE OF THINGS
+- contain (e.g. does it contain milk)
+- open (e.g. what time do you open the shop tomorrow)
+- close (e.g. what time do you close the shop tomorrow)
+
+BASIC MOVEMENT
+- go (e.g. I go there to work)
+- come
+- return
+- get to [arrive at a location] (e.g. how can I get to the airport)
+- arrive
+- leave
+- meet [two things/beings appear at one location]
+- travel
+
+2. LIVING BEINGS APPEARED
 
 STATE OF LIVING BEINGS
 - live [general area of residence]
 - live [be alive]
+
+3. LIVING BEINGS WITH BASIC INTELLIGENCE APPEARED
+
+HEAD-RELATED ACTIONS
 - sleep
+- look [focus eyes but not necessarily register]
+- see [register with eyes in a short or long amount of time] (e.g. did you see any waterfalls there)
+- watch [register with eyes for a long amount of time] (e.g. can I watch my movie in this room tomorrow)
+- hear
+- listen
 
-STATE OF THINGS
-- contain (e.g. does it contain milk)
-- work [successfully performs its function] (e.g. does this phone work)
-
-COMMUNICATION
-- talk [exchange information using language]
-- speak [exchange information in real-time using language over voice]
-- ask [request someone to provide information] (e.g. can you ask him his name)
-- ask to [request someone to execute an action] (e.g. can you ask him to close the door)
-- answer [satisfy request for information]
-- write [record information using written language]
-- read [get information using written language]
-- call [give a name, use a name]
-- call [request someone to appear at current location]
-- meet [exchange information about each other]
+THOUGHTFUL ACTIONS WITH THINGS OR PEOPLE
+- make
+- use (e.g. can I use your bathroom)
 
 KNOWLEDGE & ABILITIES
 - can/able [can accomplish a certain goal]
@@ -30,7 +47,11 @@ KNOWLEDGE & ABILITIES
 - forget [lose certain information]
 - understand [have a logical model]
 - learn [develop a logical model] (e.g. where did you learn your English)
-- study [develop logical models using an educational system] (e.g. where did you study)
+- study [develop logical models using a system] (e.g. where did you study)
+
+FOOD
+- drink
+- eat
 
 PREFERENCES, OPINION, PERCEPTION
 - feel
@@ -38,46 +59,45 @@ PREFERENCES, OPINION, PERCEPTION
 - need
 - like
 - love
-- look [appearance] (e.g. you look young, it looks beautiful)
-- seem [early opinion] (e.g. he seems kind)
+- look [appearance] (e.g. human looks a bit like a chimp, you look young, it looks beautiful)
+- seem [quick logical model] (e.g. the predator seems far enough, the boy seems kind)
 
-COLLABORATION
-- give 
-- help
-- recommend
-
-GENERAL ACTIONS WITH THINGS OR PEOPLE
-- do
-- make
-- use (e.g. can I use your bathroom)
-
-MOVING THINGS OR PEOPLE
+MOVING THINGS OR LIVING BEINGS
 - get [receive/obtain] (e.g. can I get the bill please, where can I get a spoon)
 - bring (e.g. can you bring some water please)
 - take (e.g. can I take the salad with me)
-
-HEAD SENSOR ACTIONS
-- look [focus eyes but not necessarily register]
-- see [register with eyes in a short or long amount of time] (e.g. did you see any waterfalls there)
-- watch [register with eyes for a long amount of time] (e.g. can I watch my movie in this room tomorrow)
-- hear
-- listen
-
-MOVEMENT
-- go (e.g. I go there to work)
-- come
-- return
-- get to [arrive at a location] (e.g. how can I get to the airport)
-- arrive
-- walk
-- find (e.g. where can I find an ice-cream shop)
-- meet [move to one location]
-- travel
 
 POSITION
 - sit
 - stand
 - wait (e.g. please wait a minute)
+
+THOUGTHFUL MOVEMENT
+- find (e.g. where can I find an ice-cream shop)
+- try (e.g. can I try this shirt on)
+
+BASIC COLLABORATION
+- give
+- help
+
+4. LIVING BEING WITH ADVANCED INTELLIGENCE APPEARED
+
+BASIC COMMUNICATION
+- say [provide a short piece of information using language]
+- tell [provide a long piece of information using language]
+- talk [exchange information using language]
+- speak [exchange information in real-time using language over voice]
+- ask [request someone to provide information] (e.g. can you ask him his name)
+- ask to [request someone to execute an action] (e.g. can you ask him to close the door)
+- answer [satisfy request for information]
+- call [give a name, use a name]
+- call [request someone to appear at current location]
+- meet [exchange information about each other]
+- recommend
+
+WRITTEN COMMUNICATION
+- write [record information using written language]
+- read [get information using written language]
 
 COMMERCE
 - buy
@@ -85,11 +105,4 @@ COMMERCE
 - pay
 - cost
 - work [commercial process] 
-- try (e.g. can I try this shirt on)
 - order (e.g. I am ready to order)
-- open (e.g. what time do you open the shop tomorrow)
-- close (e.g. what time do you close the shop tomorrow)
-
-FOOD
-- drink
-- eat
