@@ -1,6 +1,6 @@
 DRAFT
 
-Inspired by Ray Dalio I will experiment by writing down principles I used for decision making.
+Inspired by Ray Dalio I will experiment by writing down principles I used or want to use for decision making.
 
 Sections:
 
@@ -10,8 +10,6 @@ Sections:
 --------------------------------------------------------------------------------------------------------------------------------------
 1.1. Universal work principles
 --------------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------------------------------------
-1.1.x. A company contractor is asking to share company's information outside the scope of their work.
 --------------------------------------------------------------------------------------------------------------------------------------
 1.2. Running a company
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -58,4 +56,11 @@ Examples of why it's important:
 2.2. Communication
 --------------------------------------------------------------------------------------------------------------------------------------
 2.1.x. If you feel negative emotions from an event and you think someone you are communicating to did something "bad", hold off your response for as long as possible but not longer than 24 hours. You can let them know you are experiencing negative emotions and want to respond calmly in the next 24 hours. Do not raise your voice, do not blame them, use any negative words etc. Write down events as you see them for now, write down your emotions. Write out a response after 24 hours. Review it. Communicate the response based on the written text in real time if possible using the media than provides most information (real life > video call > phone call > voice messages > text messages).
+--------------------------------------------------------------------------------------------------------------------------------------
+2.3. Collaboration
+--------------------------------------------------------------------------------------------------------------------------------------
+2.3.1. Before asking someone to help you, make sure it's high on your priority list. Otherwise, following up with them after they help may end up being low on your priority list for a long time.
+
+Examples:
+- ask immigration lawyer to answer questions about travelling a lot before applying for the US citizenship but I am taking weeks to follow up
 --------------------------------------------------------------------------------------------------------------------------------------
