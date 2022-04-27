@@ -22,6 +22,7 @@ x. Right before raising your seed round, learn the key financial and business te
 Examples:
 - gross margin
 - churn rate
+- net revenue (gross revenue minus costs directly related to revenue)
 --------------------------------------------------------------------------------------------------------------------------------------
 x. If investor pitch is coming up, learn the key information about the investor:
 - Key team members & their high-level career history
