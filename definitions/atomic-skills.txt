@@ -11,10 +11,9 @@ In the ideal definition "atomic skills" are skills that are defined in the follo
    Example of no or little correlation:
    (a) "John is good at DJing" and (b) "John is good at understanding Kyrgyz language". He can be extremely good at one and extremely bad at another.
 
-2) Abilities in one skill should strongly correlate with abilities in all parts of the skill.
-   Example of a strong correlation:
-   (a) "John has 
-
+2) Complex skills should be broken down into smaller useful parts as long as it's needed for the purposes.
+   Examples:
+   (a) "John has good communication skills" vs (b) "John is good at presenting to audiences" vs (b) "John is good at educating audiences of around 10-50 people"
 
 - Choose wording effectively
 - Communicate well during stressful situations
