@@ -1,0 +1,17 @@
+What is a skill?
+
+Skill is a measurement of someone's ability to accomplish a type of goals.
+
+For example, "John is a good storyteller". Someone measured John's ability along certain dimensions, let's say, his storytelling captivates people's attention well, people remember his stories in details and for a long time.
+
+Example 2: Snowflake is good at guarding our house.
+
+What is an atomic skill?
+
+I want to define atomic skill as the largest possible set of skills with a strong correlation between each other.
+
+For example, if you are good at presenting to thousands of people you very likely good at communicating to tens of thousands of people. I imagine that correlation between those two is around 90%. So, maybe the most relevant atomic skill here is "good at presenting to a large (1000+) audience".
+
+At the same time, I believe if someone says you are good at "communication skills" it often doesn't seem to mean that you are likely good at most of them. Maybe you are good at presenting to a large audience but bad at negotiation or conflict resolution. Correlation between last 3 skills mention can be only around 20%.
+
+I believe using atomic skills is more precise and often more useful than using such generalizations as "communication skills".
