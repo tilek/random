@@ -10,4 +10,4 @@
     
 - If you experienced negative emotions or thoughts towards an ally or their impact, write it out and provide feedback in an organized thoughtful way. Never say negative things behind their back. See: [Guide for providing feedback to allies](https://github.com/tilek/random/blob/master/principles/general/communication/guide_for_providing_feedback.md).
 
-- If you are experiencing anger, please see [Guide for communicating while angry][https://github.com/tilek/random/blob/master/principles/general/communication/guide_for_communicating_while_angry.md]
+- If you are experiencing anger, please see [Guide for communicating while angry](https://github.com/tilek/random/blob/master/principles/general/communication/guide_for_communicating_while_angry.md)
