@@ -1,6 +1,6 @@
 # General communication principles
-1. Always stay polite.
-1. Only use positive or neutral words. Use negative words only after a lot of thoughtful consideration.
-1. Take ownership of events, blame someone only after a lot of thoughtful consideration.
-1. Only give positive (e.g. 'kind') or neutral (e.g. 'engineer') labels to people, never give negative labels
+- Always stay polite.
+- Only use positive or neutral words. Use negative words only after a lot of thoughtful consideration.
+- Take ownership of events, blame someone only after a lot of thoughtful consideration.
+- Only give positive (e.g. 'kind') or neutral (e.g. 'engineer') labels to people, never give negative labels
 
