@@ -1,4 +1,4 @@
-# COMMUNICATION IN ALL SITUATIONS
+# General communication principles
 1. Always stay polite.
 1. Only use positive or neutral words. Use negative words only after a lot of thoughtful consideration.
 1. Take ownership of events, blame someone only after a lot of thoughtful consideration.
