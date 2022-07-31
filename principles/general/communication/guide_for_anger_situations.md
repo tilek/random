@@ -1,4 +1,4 @@
-# Communication when you get angry in relation to someone's behavior.
+# Guide: Communicating when you get angry in relation to someone's behavior.
 
 1. At any point while angry speak according to the principles, keep your voice calm & at a normal volume.<br>
 2. If you are in the same place with the person, if possible, leave to another place as politely as possible.<br>
