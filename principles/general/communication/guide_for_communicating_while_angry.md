@@ -1,4 +1,4 @@
-# Guide: Communicating with someone you got angry at
+# Guide: Communicating with someone you got angry at or annoyed with
 
 1. At any point while angry keep your voice calm & at a regular volume.<br>
 2. If you are in the same place with the person, if possible, leave to another place as politely as possible.<br>
