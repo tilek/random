@@ -1,4 +1,3 @@
-
 # Running a company
 
 - Before a person starts collaborating, identify potential competition and agree on communications.
