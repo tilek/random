@@ -1,13 +1,13 @@
 # Sharing feedback about people with them or others
-- Only give positive (e.g. 'kind') or neutral (e.g. 'engineer') labels to people, never give negative labels</br>
+- Only give positive (e.g. 'kind') or neutral (e.g. 'engineer') labels to people, never give negative labels
   </br>
-- Publicly only talk positively or neutrally about people, even if you think they are unethical</br>
+- Publicly only talk positively or neutrally about people, even if you think they are unethical
   </br>
   - Misstep example: Writing and publishing an Instagram post about a woman from Kyrgyzstan that claimed to have worked at Google.</br>
     It attracted a lot of negativity. A lot of people on the Internet didn't go into details.</br>
     It challenged my relationship with several people I like and respect.</br>
     
-- If you experienced negative emotions or thoughts towards a person or their impact, provide feedback in an organized thoughtful way</br>
+- If you experienced negative emotions or thoughts towards a person or their impact, provide feedback in an organized thoughtful way
   </br>
   Try not to react in real-time. Ideally, soon after your felt those emotions, write down what happened.</br>
   Identify facts ("you sent a message saying XYZ") and separate your feelings and thoughts from them (e.g. "it made me feel disappointed/angry/attacked/disrespected").</br>
@@ -18,5 +18,5 @@
   </br>
   This format is partly inspired by the idea of "nonviolent communication". You can read more about it online.</br>
   </br>
-- Avoid saying negative things about allies behind their back.</br>
+- Avoid saying negative things about allies behind their back.
   Instead write the feedback down. Organize in a thoughtful way.</br>
