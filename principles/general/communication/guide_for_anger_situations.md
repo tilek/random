@@ -1,6 +1,6 @@
 # Communication when you get angry in relation to someone's behavior.
 
-Step 0. At any point while angry, if you must speak according to the principles, keep your voice calm & at a normal volume.<br>
+Step 0. At any point while angry speak according to the principles, keep your voice calm & at a normal volume.<br>
 Step 1. If you are in the same place with the person, if possible, leave to another place as politely as possible.<br>
         Go to a place where you can't see or hear each other.<br>
         If to stay polite it's important to say something before your leave the situation use such words as:<br>
