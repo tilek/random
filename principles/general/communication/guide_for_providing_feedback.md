@@ -11,4 +11,4 @@
 <br>
 Note:
 This format is partly inspired by the idea of [nonviolent communication](https://en.wikipedia.org/wiki/Nonviolent_Communication)
-[Marshall Rosenberg]<https://en.wikipedia.org/wiki/Marshall_Rosenberg> is one of the people who popularized this idea.<br>
+[Marshall Rosenberg](https://en.wikipedia.org/wiki/Marshall_Rosenberg) is one of the people who popularized this idea.<br>
