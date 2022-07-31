@@ -10,7 +10,8 @@
     
 - If you experienced negative emotions or thoughts towards a person or their impact, provide feedback in an organized thoughtful way
 
-  Try not to react in real-time. Ideally, soon after your felt those emotions, write down what happened.<br>
+  Try not to react in real-time. <br>
+  Ideally, soon after your felt those emotions, write down what happened.<br>
   Identify facts ("you sent a message saying XYZ").<br>
   Separate your feelings and thoughts from facts (e.g. "it made me feel disappointed/angry/attacked/disrespected").<br>
   Avoid blaming anyone. Avoid using the word "you" unless you talk about facts.<br>
