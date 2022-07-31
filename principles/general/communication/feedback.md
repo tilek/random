@@ -8,7 +8,7 @@
     It attracted a lot of negativity. A lot of people on the Internet didn't go into details.<br>
     It challenged my relationship with several people I like and respect.<br>
     
-- If you experienced negative emotions or thoughts towards a person or their impact, provide feedback in an organized thoughtful way
+- If you experienced negative emotions or thoughts towards an ally or their impact, write it out and provide feedback in an organized thoughtful way. Never say negative things behind their back.
 
   Try not to react in real-time. <br>
   Ideally, soon after your felt those emotions, write down what happened.<br>
@@ -20,6 +20,3 @@
   Be careful about using negative analogies that may be too strong (e.g. "I felt like a slave"). They can be remembered for many years and keep generating negativity.<br>
   <br>
   This format is partly inspired by the idea of "nonviolent communication". You can read more about it online.<br>
-
-- Avoid saying negative things about allies behind their back.
-  Instead write the feedback down. Organize in a thoughtful way.<br>
