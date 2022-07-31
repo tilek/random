@@ -1,4 +1,4 @@
-# AREA OF LIFE
+# Area of life
 
 - Principle 1
 
