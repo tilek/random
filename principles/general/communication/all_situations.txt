@@ -1,8 +1,11 @@
 --------------------------------------------------------------------------------------------------------------------------------------
-2.2. Communication
+COMMUNICATION IN ALL SITUATIONS
 --------------------------------------------------------------------------------------------------------------------------------------
-2.2.1. Communication principles for all situations.
-2.2.1.x. Always stay polite.
-2.2.1.x. Only use positive or neutral words. Use negative words only after a lot of thoughtful consideration.
-2.2.1.x. Take ownership of events, blame someone only after a lot of thoughtful consideration.
-2.2.1.x. Only give positive (e.g. 'kind') or neutral (e.g. 'engineer') labels to people, never give negative labels
+x. Always stay polite.
+--------------------------------------------------------------------------------------------------------------------------------------
+x. Only use positive or neutral words. Use negative words only after a lot of thoughtful consideration.
+--------------------------------------------------------------------------------------------------------------------------------------
+x. Take ownership of events, blame someone only after a lot of thoughtful consideration.
+--------------------------------------------------------------------------------------------------------------------------------------
+x. Only give positive (e.g. 'kind') or neutral (e.g. 'engineer') labels to people, never give negative labels
+--------------------------------------------------------------------------------------------------------------------------------------
