@@ -3,7 +3,7 @@
 
 - Publicly only talk positively or neutrally about people, even if you think they are unethical
   
-  - Misstep example: Posting an Instagram post about a woman from Kyrgyzstan that claimed to have worked at Google.
+  - Misstep example: Writing and publishing an Instagram post about a woman from Kyrgyzstan that claimed to have worked at Google.
     It attracted a lot of negativity. A lot of people on the Internet didn't go into details.
     It challenged my relationship with several people I like and respect.
     
