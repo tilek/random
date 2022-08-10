@@ -24,8 +24,8 @@ Failures:<br>
 - Henrique 2022 (around February) - feedback, anger, politeness, negative stereotypes<br>
 - Bojan 2022 (around February) - feedback, anger, politeness<br>
 - Nazerke 2022 (around February) - ideas, competition<br>
-- Adeim 2022-08-10 - got sad/disappointed after hearing truthful feedback, said things that were too negative, could be considered 'guilt trip'<br>
-
+- Adeim 2022-08-09 - got sad/disappointed after hearing truthful feedback, said things that were too negative, could be considered 'guilt trip'<br>
+<br>
 Successes:<br>
 - Maksim 2022 (around January) - feedback<br>
 - 2022-02-16 A girl named Rafael at the Selina coworking space (I thought her voice was too loud)<br>
