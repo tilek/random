@@ -28,5 +28,5 @@ Failures:<br>
 <br>
 Successes:<br>
 - Maksim 2022 (around January) - feedback<br>
-- 2022-02-16 A girl named Rafael at the Selina coworking space (I thought her voice was too loud)<br>
-- 2022-08-10 Debating the launch of the new paid service with Ana at WeWork near Tower Bridge.<br>
+- 2022-02-16 a girl named Rafael at the Selina coworking space (I thought her voice was too loud)<br>
+- 2022-08-10 debating the launch of the new paid service with Ana at WeWork near Tower Bridge.<br>
