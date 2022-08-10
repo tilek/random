@@ -1,6 +1,6 @@
-# Guide: Communicating with someone you got angry at or annoyed with
+# Guide: Communicating with someone you got negative emotions towards (anger, annoyance, disappointment, upset, sadness)
 
-1. At any point while angry keep your voice calm & at a regular volume.<br>
+1. At any point of the conversation keep your voice calm & at a regular volume.<br>
 2. If you are in the same place with the person, if possible, leave to another place as politely as possible.<br>
    Go to a place where you can't see or hear each other.<br>
    If to stay polite it's important to say something before your leave the situation use such words as:<br>
