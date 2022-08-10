@@ -2,7 +2,7 @@
 
 1. If you are experiencing negative emotions, notice it and manage your reaction.<br>
 2. Soon after your felt those emotions, write down what happened.<br>
-3. Avoid sending emails!<br>
+3. Avoid sending emails with feedback or during an argument in general.<br>
 4. Identify facts ("you sent a message saying XYZ").
 5. Separate your feelings and thoughts from facts (e.g. "it made me feel disappointed/angry/attacked/disrespected").<br>
 6. Avoid blaming anyone. Avoid using the word "you" whenever possible.<br>
