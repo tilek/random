@@ -11,3 +11,5 @@
 - If you experienced negative emotions or thoughts towards an ally, provide feedback in an organized thoughtful way. See: [Guide for providing feedback to allies](https://github.com/tilek/random/blob/master/principles/general/communication/guide_for_providing_feedback.md). Never say negative things behind their back.
 
 - If you are experiencing anger, please see [Guide for communicating while angry](https://github.com/tilek/random/blob/master/principles/general/communication/guide_for_communicating_while_angry.md)
+
+- Avoid sending an email during an argument with feedback or otherwise
