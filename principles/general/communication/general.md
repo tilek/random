@@ -16,4 +16,4 @@
   Failures:
   - 2022-08-11 Ana: bringing up the situation with Andreea and punting, touching on trust
   Successes:
-  - 2022-08 Zhanyl: she started interviewing with Google. Ana fixed my comment about reintegrating her into the Outtalent program.
+  - 2022-08-10 Zhanyl: she started interviewing with Google. Ana fixed my comment about reintegrating her into the Outtalent program.
