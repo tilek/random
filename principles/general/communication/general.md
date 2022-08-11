@@ -14,8 +14,8 @@
   It will take more time but it's still better than risking a long-term relationship forever.<br>
   <br>
   Failures:<br>
-  * 2022-08-11 Ana: bringing up the situation with Andreea and punting, touching on trust<br>&nbsp;
+  * 2022-08-11 Ana: bringing up the situation with Andreea and punting, touching on trust<br>
 
   Successes:<br>
-  * 2022-08-10 Zhanyl: she started interviewing with Google. Ana fixed my comment about reintegrating her into the Outtalent program.<br>&nbsp;
+  * 2022-08-10 Zhanyl: she started interviewing with Google. Ana fixed my comment about reintegrating her into the Outtalent program.<br>
   <br>
