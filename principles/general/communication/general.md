@@ -18,3 +18,4 @@
   <br>
   Successes:<br>
   - 2022-08-10 Zhanyl: she started interviewing with Google. Ana fixed my comment about reintegrating her into the Outtalent program.<br>
+  <br>
