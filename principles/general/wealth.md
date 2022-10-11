@@ -1,0 +1,1 @@
+- Be careful about taking on credit card debt, it often has high (~20%) annual interest rate
