@@ -1,15 +1,28 @@
 # Guide: Communicating with someone you got negative emotions towards (anger, annoyance, disappointment, upset, sadness)
 
 1. At any point of the conversation keep your voice calm & at a regular volume.<br>
+
 2. If you are in the same place with the person, if possible, leave to another place as politely as possible.<br>
    Go to a place where you can't see or hear each other.<br>
    If to stay polite it's important to say something before your leave the situation use such words as:<br>
    - "I am sorry but I got angry. I think it's important for me to take a break.".<br>
    - "I am sorry but I am not feeling well right now. I think it's important for me to take a break.".<br>
+
 3. Write down events that happened and your emotions separately from the events.<br>
+
 4. Give yourself enough time to calm down.<br>
-   To check if you are calm enough and can write down your thoughts and see if there are negative words popping out.<br>
-   If you think your brain might be tired, try to give yourself 8 hours of high-quality night sleep to reset.<br>
+4.1. Breathe deeply several times. 
+4.2. Figure out your need (e.g. respect for my time).
+4.3. Realize that you are angry not on the situation but on what you think about the situation.
+     Example: I am not angry because the person was late but I am angry because I feel disrespected.
+
+4.4. Write out your speech.
+     Example:
+     "It is very important for me to feel that people respect my time. "
+   
+     To check if you are calm enough and can write down your thoughts and see if there are negative words popping out.<br>
+     If you think your brain might be tired, try to give yourself 8 hours of high-quality night sleep to reset.<br>
+
 5. As soon as possible after that, write out your response:<br>
    (1) What you like about the person and what you appreciate in their impact on you.<br>
    (2) Relevant events as you remember them. Clarify that it's based on your memory and your memory can be faulty.<br>
