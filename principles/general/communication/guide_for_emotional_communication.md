@@ -8,29 +8,38 @@
    - "I am sorry but I got angry. I think it's important for me to take a break.".<br>
    - "I am sorry but I am not feeling well right now. I think it's important for me to take a break.".<br>
 
-3. Write down events that happened and your emotions separately from the events.<br>
+3. Give yourself enough time to calm down.<br>
 
-4. Give yourself enough time to calm down.<br>
-4.1. Breathe deeply several times. 
-4.2. Figure out your need (e.g. respect for my time).
-4.3. Realize that you are angry not on the situation but on what you think about the situation.
+3.1. Write down events that happened and your emotions separately from the events.<br>
+     Feel free to curse and be very emotional, irrational, and untruthful there.<br>
+     
+3.2. Breathe deeply 5 or more times.<br>
+
+3.3. Figure out your need (e.g. respect for my time).
+3.4. Realize that you are angry not on the situation but on what you think about the situation.
      Example: I am not angry because the person was late but I am angry because I feel disrespected.
 
-4.4. Write out your speech.
+3.5. Consider doing something physical but useful to physical channel your anger. Consider cursing aloud while noone else hears.
      Example:
-     "It is very important for me to feel that people respect my time. "
-   
-     To check if you are calm enough and can write down your thoughts and see if there are negative words popping out.<br>
-     If you think your brain might be tired, try to give yourself 8 hours of high-quality night sleep to reset.<br>
-
-5. As soon as possible after that, write out your response:<br>
+     - washing dishes
+     - exercises (e.g. jumping jacks might work better than most exercises)
+     
+4. Write out your response speech.
    (1) What you like about the person and what you appreciate in their impact on you.<br>
    (2) Relevant events as you remember them. Clarify that it's based on your memory and your memory can be faulty.<br>
    (3) How the events made you feel.<br>
-   Review it and rewrite it.<br>
-6. If possible, agree on a clear time and format to communicate it.<br>
-7. Communicate the response based on the written text if possible in real time using the media that provides most information: <br>
+   Example:
+   "It is very important for me to feel that people respect my time."
+
+41. Review it for extreme negative words or phrases popping out. For anything you may regret saying later.<br>
+
+4.5. If you think your brain might be tired, try to give yourself 8 hours of high-quality night sleep to reset.<br>   
+
+5. If possible, agree on a clear time and format to communicate it.<br>
+
+6. Communicate the response based on the written text if possible in real time using the media that provides most information: <br>
    real life > video call > phone call > voice messages > text messages.<br>
+
 <br>
 Failures:<br>
 - Meder 2021 (around March) - support<br>
