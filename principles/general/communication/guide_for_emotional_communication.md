@@ -7,6 +7,8 @@
    If to stay polite it's important to say something before your leave the situation use such words as:<br>
    - "I am sorry but I got angry. I think it's important for me to take a break.".<br>
    - "I am sorry but I am not feeling well right now. I think it's important for me to take a break.".<br>
+   Never say things that can sound like a blame.<br>
+   Example: "You seem angry."<br>
 
 3. Give yourself enough time to calm down.<br>
 
@@ -16,15 +18,16 @@
 3.2. Breathe deeply 5 or more times.<br>
 
 3.3. Figure out your need (e.g. respect for my time).<br>
+
 3.4. Realize that you are angry not on the situation but on what you think about the situation.<br>
      Example: I am not angry because the person was late but I am angry because I feel disrespected.<br>
 
-3.5. Consider doing something physical but useful to physical channel your anger. Consider cursing aloud while noone else hears.<br>
+3.5. Consider doing something physical but useful to physical channel your anger. Consider cursing aloud while noone else hears you.<br>
      Example:<br>
      - washing dishes<br>
      - exercises (e.g. jumping jacks might work better than most exercises)<br>
      
-4. Write out your response speech.<br>
+4. Write out your response.<br>
    (0) Usual polite introduction. <br>
    (1) Empathize with the person. Where are they? Where is their mind right now? Meet them where they are.<br>
    (2) Remind them where you stand in relation to them in general:<br>
@@ -41,8 +44,8 @@
        Example: "It is very important for me to feel that people respect my time."
    (6) Write out your polite request.<br>
    (7) Words of gratitude to end off.<br>
-   Example:
-
+   Example:<br>
+<br>
 Hi [PERSON-A],<br>
 <br>
 I hope you are doing well.<br>
