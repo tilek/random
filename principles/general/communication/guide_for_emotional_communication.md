@@ -41,7 +41,7 @@
    (4) Write out how the events made you feel. Limit strong words to only what's most necessary.<br>
        If you feel the urge to mention many negative words, it might be best to cool down further before writing out a response.<br>
    (5) Write out your psychological need.<br>
-       Example: "It is very important for me to feel that people respect my time."
+       Example: "It is very important for me to feel that people respect my time."<br>
    (6) Write out your polite request.<br>
    (7) Words of gratitude to end off.<br>
    Example:<br>
