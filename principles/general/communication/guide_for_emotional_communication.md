@@ -43,34 +43,34 @@
    (7) Words of gratitude to end off.<br>
    Example:
 
-Hi <FRIEND>,
-
-I hope you are doing well.
-
-Congrats on becoming <NEW ROLE>! I think they are very lucky to have you!
-
-I am sure you know how much love and respect I have for you and I hope you know that I value you a lot in my life. In the interest of developing our relationship further I want to express how I recently felt.
-
-You will be surprised but after seeing your introduction of <FRIENDS FRIEND> I experienced anger. I know you mean well and meant it as a favor for both me and <FRIENDS FRIEND> but regardless of that, I felt disrespect to my time and to me as a person in general.
-
-Whenever someone introduces me to someone, especially if you are the one introducing - a person I respect so deeply - I feel the urge to reply promptly and pay proper attention to the person I was introduced you as I want to make you look good too. And since I already have so much on my plate, nice-to-have introductions like this end up as just more urgent work. And it's the last thing I am looking for right now actually.
-
-Once again, I know you respect me and want only the best for me but I want you to know how I felt. It's important for me to feel that my time is respected and I want to kindly ask you to do double-opt-in introductions. I will be very grateful if you could help me with that and if there is something I can do to improve our relationship on my side, let me know too.
-
-Thank you again for all your support throughout all those years.
-I hope for your empathy and understanding once again.
-I know you are amazing at that!
-
-With love and respect,
-❤️❤️❤️
-Tilek
-
+Hi [PERSON-A],<br>
+<br>
+I hope you are doing well.<br>
+<br>
+Congrats on becoming <NEW ROLE>! I think they are very lucky to have you!<br>
+<br>
+I am sure you know how much love and respect I have for you and I hope you know that I value you a lot in my life. In the interest of developing our relationship further I want to express how I recently felt.<br>
+<br>
+You will be surprised but after seeing your introduction of [PERSON-B] I experienced anger. I know you mean well and meant it as a favor for both me and [PERSON-B] but regardless of that, I felt disrespect to my time and to me as a person in general.<br>
+<br>
+Whenever someone introduces me to someone, especially if you are the one introducing - a person I respect so deeply - I feel the urge to reply promptly and pay proper attention to the person I was introduced you as I want to make you look good too. And since I already have so much on my plate, nice-to-have introductions like this end up as just more urgent work. And it's the last thing I am looking for right now actually.<br>
+<br>
+Once again, I know you respect me and want only the best for me but I want you to know how I felt. It's important for me to feel that my time is respected and I want to kindly ask you to do double-opt-in introductions. I will be very grateful if you could help me with that and if there is something I can do to improve our relationship on my side, let me know too.<br>
+<br>
+Thank you again for all your support throughout all those years.<br>
+I hope for your empathy and understanding once again.<br>
+I know you are amazing at that!<br>
+<br>
+With love and respect,<br>
+❤️❤️❤️<br>
+Tilek<br>
+<br>
 4.1. Review it for extreme negative words or phrases popping out. For anything you may regret saying later.<br>
 
 5. If you think your brain might be tired, try to give yourself 8 hours of high-quality night sleep to reset.<br>   
 
 6. If possible, agree on a clear time and format to communicate it. Communicate the response based on the written text if possible in real time using the media that provides most information: real life > video call > phone call > voice messages > text messages.<br>
-   Remember: all people have some sort of a trauma and are irrational and a bad reply can cost you a long-term relationship if the relationship is fragile.
+   Remember: all people have some sort of a trauma and are irrational and a bad reply can cost you a long-term relationship if the relationship is fragile.<br>
 
 <br>
 Failures:<br>
@@ -78,7 +78,7 @@ Failures:<br>
 - Henrique 2022 (around February) - feedback, anger, politeness, negative stereotypes<br>
 - Bojan 2022 (around February) - feedback, anger, politeness<br>
 - Nazerke 2022 (around February) - ideas, competition<br>
-- Adeim 2022-08-09 - got sad/disappointed after hearing truthful feedback, said things that were too negative, could be considered 'guilt trip'<br>
+- Ada 2022-08-09 - got sad/disappointed after hearing truthful feedback, said things that were too negative, could be considered 'guilt trip'<br>
 <br>
 Successes:<br>
 - Maksim 2022 (around January) - feedback<br>
