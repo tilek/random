@@ -77,13 +77,13 @@ Tilek<br>
 
 <br>
 Failures:<br>
-- Meder 2021 (around March) - support<br>
-- Henrique 2022 (around February) - feedback, anger, politeness, negative stereotypes<br>
-- Bojan 2022 (around February) - feedback, anger, politeness<br>
-- Nazerke 2022 (around February) - ideas, competition<br>
-- Ada 2022-08-09 - got sad/disappointed after hearing truthful feedback, said things that were too negative, could be considered 'guilt trip'<br>
+- MDR 2021 (around March) - support<br>
+- HNRQ 2022 (around February) - feedback, anger, politeness, negative stereotypes<br>
+- BJN 2022 (around February) - feedback, anger, politeness<br>
+- NZRJ 2022 (around February) - ideas, competition<br>
+- ADA 2022-08-09 - got sad/disappointed after hearing truthful feedback, said things that were too negative, could be considered 'guilt trip'<br>
 <br>
 Successes:<br>
-- Maksim 2022 (around January) - feedback<br>
+- MKSM 2022 (around January) - feedback<br>
 - 2022-02-16 a girl named Rafael at the Selina coworking space (I thought her voice was too loud)<br>
-- 2022-08-10 debating the launch of the new paid service with Ana at WeWork near Tower Bridge.<br>
+- 2022-08-10 debating the launch of the new paid service at WeWork near Tower Bridge.<br>
