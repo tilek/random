@@ -19,3 +19,10 @@
   Successes:<br>
   * 2022-08-10 Zhanyl: she started interviewing with Google. Ana fixed my comment about reintegrating her into the Outtalent program.<br>
   <br>
+
+- Avoid sending text or voice messages while sleepy without empathizing and thinking through even if in a positive emotional state (e.g. joy, love, trust, friendship)
+
+  Failures:
+  - 2021 around March: messages to MKSM about AJ
+  - 2021 around April?: messages to Ryan about startup
+  - 2023 around early July: voice messages to MK about relationships
