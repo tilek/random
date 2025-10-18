@@ -1,5 +1,7 @@
 # Happiness
 
+- Live a generally healthy life, health is the foundation of happiness
+
 - Realize what's under your control and what's not.
   Examples:
   - Can you live forever?
