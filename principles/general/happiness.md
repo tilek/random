@@ -24,4 +24,4 @@
 
 - Notice your own anxiety and analyze it rather than simply acting based on it
 
-- Find a good psychotherapist and complete the course
+- Try psychotherapy with several psychotherapists (it could last forever with some methodologies)
