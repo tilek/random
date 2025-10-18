@@ -1,4 +1,4 @@
-# Guide: Finding a psychologist or psychotherapist
+# Guide: Finding a psychotherapist
 
 1. Clearly state the goals you have for psychotherapy. 
    Example: "Be as healthy and happy as possible", "Minimize stress & anxiety"
