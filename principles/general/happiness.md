@@ -25,3 +25,7 @@
 - Notice your own anxiety and analyze it rather than simply acting based on it
 
 - Try psychotherapy with several psychotherapists (it could last forever with some methodologies)
+
+- Surround yourself with people you love and who love you: family / relatives, friends, life partner / spouse
+
+- Find a handful of great close friends. Build and maintain great friendships with them
