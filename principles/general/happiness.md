@@ -33,8 +33,12 @@
 - Stop all the negative self-talk or attack yourself in your internal dialogue
   
 - Learn to process all emotions in a health way (e.g. cry enough, show anger in a "ecological" way)
+  
+- Learn to be comfortable while being alone
 
 # Happiness: Social
+
+- Learn to build great close and distant relationships
 
 - Surround yourself with people you love and who love you: family / relatives, friends, life partner / spouse
 
@@ -42,7 +46,11 @@
 
 - Consider finding, joining and regularly attending a community of supportive people with similar values
 
-# Happiness: Healthy Habits
+- Find a life partner with whom you can love each other deeply
+
+- Have regular passionate sex with your life partner
+
+# Happiness: Habits for Physical Health
 
 - Live a generally healthy life. Health is the foundation of happiness.
   
@@ -57,6 +65,12 @@
 - Spend little time focusing on what you don't have.
 
 - Live a lot in the moment instead of ruminating about the past or planning for the possible future too much
+
+- Walk around trees almost every day, walk in the nature at least once a week.
+
+- Have a positive mindset, be optimistic
+
+- Sometimes do silly things, goof around, joke, play, and have fun
 
 # Happiness: Purpose
 
