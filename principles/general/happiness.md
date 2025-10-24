@@ -14,11 +14,11 @@
 
 - Notice your geniune passions, curiosities, and interests and pursue them often, especially over what seems rational or logical and common advice.
 
-- Notice lots of wonderful, beautiful, thing about life and learn to love it
+- Notice beauty and wonder of eveyday things, learn to love it
   Example:
-  - Sheer diversity of everything
-  - Diversity of biological life
-  - Diversity of humans
+  - Sheer diversity of everything, living organisms, humans
+  - A cup
+  - Drinking tea
  
 # Happiness: Psychotherapy
 
