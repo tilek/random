@@ -64,9 +64,7 @@
 
 - Spend little time focusing on what you don't have.
 
-- Live a lot in the moment instead of ruminating about the past or planning for the possible future too much
-
-- Walk around trees almost every day, walk in the nature at least once a week.
+- Live a lot in the moment instead of ruminating about the past or planning for the possible future too much.
 
 - Have a positive mindset, be optimistic
 
