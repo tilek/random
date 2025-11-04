@@ -1,6 +1,8 @@
 # General work principles
 
-1) Always have a contract above certain amount of spend;
+1) Always have a contract above certain amount of spend (e.g. $200)
+
+
 1a) When you start working with people remind them that you can make a mistake verbally and should should only trust written agreement for important things.
 
 Failure stories:
