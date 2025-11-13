@@ -8,9 +8,10 @@
 
 # Before communicating with a specific investor
 
-- Never put them on a pedestal. For example, offer to come far away to meet them.
-  Otherwise, you will likely appear needy. It will display low self-esteem. Self-esteem should be extremely high instead.
-  Failure example: trying to schedule a pitch with Murat in 2025
+- Never put them on a pedestal.<br>
+  For example, don't offer to come far away to meet them.<br>
+  Otherwise, you will likely appear needy. It will display low self-esteem. Self-esteem should be extremely high instead.<br>
+  Failure example: trying to schedule a pitch with Murat in 2025<br>
 
 # Before a specific investor pitch
 
